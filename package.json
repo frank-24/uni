@@ -1,0 +1,19 @@
+{
+    "name": "uni",
+    "version": "0.0.1",
+    "license": "MIT",
+    "description": "Uni is a way where teams work together.",
+    "keywords": [
+        "uni",
+        "team",
+        "work"
+    ],
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.0",
+        "ip": "^1.1.5",
+        "log4js": "^2.3.12",
+        "mime": "^2.0.3",
+        "socket.io": "^2.0.4"
+    }
+}
